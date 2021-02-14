@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://gist.githubusercontent.com/ZviMints/21c598c659081f9c0866e29a00bc2468/raw/05205bd01a980bfaaf4b81b8e5264d9fc127f73f/welcome.gif" alt="Welcome!" width="300"/>
+<img src="https://media0.giphy.com/media/QNFhOolVeCzPQ2Mx85/200w.webp?cid=ecf05e47k0tpvd7g9pq9226fbmg1lxqncakfwzegndhfx7zp&rid=200w.webp" alt="Welcome!" width="300"/>
 
 </div>
 
