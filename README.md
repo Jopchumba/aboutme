@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="center">
+<div align="right">
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
