@@ -31,11 +31,6 @@ or <a href="mailto:jopchumba@gmail.com"><b>email</b></a> me.
 ---
 [![HitCount](http://hits.dwyl.com/jopchumba/https://githubcom/Jopchumba.svg)](http://hits.dwyl.com/jopchumba/https://githubcom/Jopchumba)
 
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.linkedin.com/in/john-simiyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/jmatrixjnr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://dev.to/matrixjnr" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
