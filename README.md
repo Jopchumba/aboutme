@@ -31,7 +31,7 @@ or <a href="mailto:jopchumba@gmail.com"><b>email</b></a> me.
 
 ---
 [![HitCount](http://hits.dwyl.com/jopchumba/https://githubcom/Jopchumba.svg)](http://hits.dwyl.com/jopchumba/https://githubcom/Jopchumba)
-<a href="https://www.buymeacoffee.com/jopchumba" target="_blank"
+<a href="https://www.buymeacoffee.com/jopchumba" target="_blank"</a>
 
 </div>
 
