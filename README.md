@@ -32,7 +32,7 @@ or <a href="mailto:jopchumba@gmail.com"><b>email</b></a> me.
 ---
 [![HitCount](http://hits.dwyl.com/jopchumba/https://githubcom/Jopchumba.svg)](http://hits.dwyl.com/jopchumba/https://githubcom/Jopchumba)
  href="https://www.buymeacoffee.com/jopchumba" 
- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+ [Buy Me a cup of coffee](https://www.buymeacoffee.com/jopchumba")
 
 
 </div>
