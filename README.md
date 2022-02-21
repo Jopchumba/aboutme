@@ -11,8 +11,9 @@
 
 
 <div align="center" width "50">
-You have finally discovered my Github profile.Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/Jopchumba/aboutme/issues"><b>here</b></a><br>
+You have finally discovered my Github profile.Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+Ask me anything 
+<a href="https://github.com/Jopchumba/aboutme/issues"><b>here</b></a><br>
 or <a href="mail:jopchumba@gmail.com"><b>email</b></a> me.
 </div>
 
